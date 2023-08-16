@@ -1,0 +1,4 @@
+/node_modules
+./config/.env/.id_rsa_priv.pem
+./config/.env/.id_rsa_pup.pem
+./config/.env/config.env
